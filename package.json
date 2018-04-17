@@ -18,5 +18,14 @@
   },
   "devDependencies": {
     "nodemon": "^1.17.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulr1/herokutest.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rahulr1/herokutest/issues"
+  },
+  "homepage": "https://github.com/rahulr1/herokutest#readme"
 }
